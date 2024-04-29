@@ -1,0 +1,234 @@
+:root{
+    --main:darkred;
+    --sec:#C67F7F;
+    --acc:#ececec;
+    }
+
+    *{
+        font-family: "Nova Square", Rajdhani;
+    }
+
+    body{
+        background: linear-gradient(to bottom, #ffffff 40%, #ececec 50%);
+        z-index: 1000;
+        max-width: 100%;
+        overflow-x: hidden;
+        
+       
+       
+    }
+
+
+
+
+nav{
+    height: 250px;
+    background-color: #ececec;
+    
+
+   
+   
+    
+    
+}
+
+
+.linknav{
+    margin: 30px;
+    
+ 
+}
+
+.colorlinknav{
+    color: black;
+}
+
+header{
+    background:linear-gradient(var(--acc),  #ececec00), url(/media/switzerland-862870_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+
+
+
+.img1{
+    margin-top:360px;
+    position: relative;
+    margin-right: 20px;
+    
+   
+  
+   
+
+
+}
+.titolo{
+    
+    position: absolute;
+    color: darkred;
+    font-size: 100px;
+    letter-spacing:50px;
+}
+
+
+.pseudo1::before,
+ .pseudo1::after{
+
+    content:'"' ; 
+    color: darkred;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+.section2{
+    margin-top: 250px;
+}
+
+.imglogo1{
+    width: 50px;
+    border-radius: 100%;
+}
+
+.imglogo2{
+    width: 50px;
+}
+
+.imglogo3{
+    width: 50px;
+
+}
+
+.imglogo4{
+    width: 50px;
+    border-radius: 100%;
+
+}
+
+.colborder{
+
+    border-bottom: solid darkred;
+   margin: 40px;
+   
+}
+
+.section3{
+    margin-top: 250px;
+}
+
+h2{
+    color: darkred;
+}
+
+.divbutton{
+    margin-top: 200px;
+    
+}
+
+button{
+    background-color: darkred;
+    color: #ececec;
+    width: 150px;
+    height: 50px;
+    border: solid darkred;
+}
+
+.section4{
+    background-color: #ffffff;
+    
+}
+
+.img2{
+  
+    width: 100%;
+}
+
+h4{
+    color: darkred;
+}
+
+
+.colborder2{
+    border-left: solid darkred;
+}
+
+.img3{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    padding: 5px;
+    border: solid darkred;
+}
+
+h5{
+    color: darkred;
+    font-size: smaller;
+}
+
+.size{
+    font-size: smaller;
+}
+
+.logosocial{
+    width: 30px;
+    border-radius: 100%;
+}
+
+.img4{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    border: solid darkred;
+    padding: 5px;
+}
+.img5{
+    margin-left: 70px;
+}
+
+.margin{
+    margin-left: 120px;
+    }
+   
+
+.margin2{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.footertrees{
+    width:100%;
+   
+    margin-top: 20px;
+    
+   
+   
+}
+
+
+
+footer{
+   
+   
+    background: linear-gradient(to bottom, rgba(139, 0, 0, 0) 62%, darkred 50%);
+    color: #ececec;
+   margin-top: 50px;
+   width: 100%;
+    
+    
+}
+
+.h2footer{
+   
+}
+
+.colfooter{
+    margin-top:100px;
+   
+}
+
+.colorlinkfooter{
+    color: #ececec;
+}
+a{
+    text-decoration: none;
+}
