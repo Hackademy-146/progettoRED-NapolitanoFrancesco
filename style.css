@@ -44,7 +44,7 @@ nav{
 }
 
 header{
-    background:linear-gradient(var(--acc),  #ececec00), url(/media/switzerland-862870_1920.jpg);
+    background:linear-gradient(var(--acc),  #ececec00), url(./media/switzerland-862870_1920.jpg);
     background-position: center;
     background-repeat: no-repeat;
    
